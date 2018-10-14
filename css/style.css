@@ -648,8 +648,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .btn.btn-ghost {
   background: transparent;
-  border: 2px solid #ffffff;
-  color: #ffffff;
+  border: 2px solid #000000;
+  color: #000000;
 }
 
 .btn.btn-ghost:hover {
